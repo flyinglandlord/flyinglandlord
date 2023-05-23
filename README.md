@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flyinglandlord&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=flyinglandlord&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=flyinglandlord&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=flyinglandlord&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=flyinglandlord&theme=github_dark&utcOffset=8)
+![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flyinglandlord&theme=github_dark)
+![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=flyinglandlord&theme=github_dark)
+![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=flyinglandlord&theme=github_dark)
+![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=flyinglandlord&theme=github_dark)
+![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=flyinglandlord&theme=github_dark&utcOffset=8)
